@@ -23,8 +23,4 @@
   // const instance3 = new Counter();
     console.log(Counter.increment());
 
-
-
-
-
 }
